@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zain UL AABIDEEN Khan</h1>
+<h1 align="center">Hi 👋, I'm Zain Ul Aabideen Khan</h1>
 <h3 align="center">Data Science | Deep Learning | NLP | Neural Networks | ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainkhankhattak121&label=Profishahzadsiddiqile%20views&color=0e75b6&style=flat" alt="zainkhankhattak121" /> </p>
+<img src="https://github.com/zainkhankhattak121/zainkhankhattak121/blob/main/1718305097620.jpeg" alt="zainkhankhattak121" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainkhankhattak121" alt="zainkhankhattak121" /></a> </p>
-
-- I am Currently Serving as an Assistant Professor at Comsats University,Islamabad Attock Campus [Deep Fake audio Detection and generation](https://www.linkedin.com/posts/zain-ul-aabideen-khan-793281210_ai-deepfakedetection-cybersecurity-activity-7291138131909660672-u1WL?utm_source=share&utm_medium=member_desktop)
+- I am currently a final-year Software Engineering student at COMSATS University Islamabad, Attock Campus. [Deep Fake audio Detection and generation](https://www.linkedin.com/posts/zain-ul-aabideen-khan-793281210_ai-deepfakedetection-cybersecurity-activity-7291138131909660672-u1WL?utm_source=share&utm_medium=member_desktop)
 
 - 👨‍💻 All of my projects are available at [https://github.com/zainkhankhattak121](https://github.com/zainkhankhattak121)
 
